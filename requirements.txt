@@ -1,1 +1,5 @@
 numpy
+langchain
+llama_index
+python-dotenv
+sentence_transformers

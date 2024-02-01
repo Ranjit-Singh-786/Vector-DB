@@ -11,3 +11,4 @@ First we will build vector database from scratch so that you will be able to und
 * FAISS
 * CHROMA
 * PINECONE
+* Llama_index
